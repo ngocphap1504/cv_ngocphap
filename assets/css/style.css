@@ -104,16 +104,8 @@ p {
 	margin-bottom: 20px;
 	border-bottom: solid 2px
 }
-.module__meta {
-	font-size: 14px;
-	color: #90a4ae;
-	margin-bottom: 20px;
-}
-.module__meta i {
-	margin-right: 10px;
-}
-.module__meta span {
-	margin-right: 20px;
+.module__content {
+	margin-top: 20px;
 }
 .module__title .circle {
 	margin-right: 10px;
@@ -190,4 +182,7 @@ p {
 .lang__content h4 {
 	text-transform: uppercase;
 	margin-top: 15px;
+}
+.module__content {
+	margin-top: 20px;
 }
